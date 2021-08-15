@@ -40,5 +40,11 @@
         }
       }
     }
+  },
+  "storage": {
+    "TutNotes": {
+      "service": "S3",
+      "providerPlugin": "awscloudformation"
+    }
   }
 }
